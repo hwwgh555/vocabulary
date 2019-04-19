@@ -2,7 +2,7 @@
 The english vocabularies that a programer need to master.
 程序员需要掌握的一些英语词汇
 
-### vocabulary source 河汇来源
+### vocabulary source 汇来源
 #### a.blogs
   普遍性词汇
   1.[史上最全的程序员常用英语词汇](https://www.jianshu.com/p/9b7d6dfa7b20)
